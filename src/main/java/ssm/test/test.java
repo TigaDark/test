@@ -50,5 +50,7 @@ public class test {
         ss.commit();
         config.close();
         ss.close();
+
+        //我是第一版 我修改了 但是本地仓库不是最新的
     }
 }
